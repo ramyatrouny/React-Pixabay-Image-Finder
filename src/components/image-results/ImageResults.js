@@ -31,6 +31,8 @@ class ImageResults extends Component {
         let imageListContent;
         const { images } = this.props;
 
+        
+
         if (images) {
             imageListContent = (
                 <GridList cols={3}>
