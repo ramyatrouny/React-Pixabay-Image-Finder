@@ -20,7 +20,7 @@ Create a .env file and add your developer key as the following
 
 
 ```bash
-REACT_APP_MUSIXMATCHKEY=xxxxxxxxxxxxxxxxxxxx
+REACT_APP_PIXABAY_KEY=xxxxxxxxxxxxxxxxxxxx
 ```
 
 ## Usage
