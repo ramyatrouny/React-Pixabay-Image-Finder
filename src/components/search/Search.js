@@ -24,7 +24,7 @@ class Search extends Component {
                     images: []
                 })
             } else {
-                axios.get(`https://pixabay.com/api/?key=${process.env.REACT_APP_PIXABAY_KEY}&q=${this.state.searchText}&image_type=photo&per_page=${this.state.amount}
+                axios.get(`https://cors-anywhere.herokuapp.com/https://pixabay.com/api/?key=${process.env.REACT_APP_PIXABAY_KEY}&q=${this.state.searchText}&image_type=photo&per_page=${this.state.amount}
                 &safesearch=true`).then(res => {
                     this.setState({
                         images: res.data.hits
