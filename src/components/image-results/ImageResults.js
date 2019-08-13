@@ -41,7 +41,6 @@ class ImageResults extends Component {
                             key={img.id}
                             subtitle={<span>By: <strong>{img.user}</strong></span>}
                             actionIcon={<IconButton onClick={() =>this.handleOpen(img.largeImageURL)}><ZoomIn color="white"></ZoomIn></IconButton>}>
-
                             <img src={img.largeImageURL} alt="" />
 
                         </GridTile>
