@@ -1,8 +1,7 @@
 import React from 'react'
-import AppBar from 'material-ui/AppBar'
-import { green } from 'ansi-colors';
+import AppBar from 'material-ui/AppBar';
 
-const Navbar = () => <AppBar title="Pixabay Image Finder" style={{background: '#880000'}}></AppBar>
+const Navbar = () => <AppBar title="Pixabay Image Finder" ></AppBar>
 
 
 export default Navbar;
