@@ -45,7 +45,7 @@ class Search extends Component {
     render() {
         console.log(this.state);
         return (
-            <div>
+            <div style={{padding: '50px'}}>
                 <TextField name="searchText" value={this.state.searchText} onChange={this.onTextChange} floatingLabelText="Search for image" fullWidth={true} />
                 <br />
                 <SelectField
