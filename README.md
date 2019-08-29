@@ -5,7 +5,7 @@ Simple React Application using Pixabay API to search for a images as well using 
 Link: https://stoic-ramanujan-1378a8.netlify.com/
 
 <!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fbf42909-6f2c-468f-8393-f98ef51e7dda/deploy-status)](https://app.netlify.com/sites/stoic-ramanujan-1378a8/deploys)
 
 ## Installation
 
