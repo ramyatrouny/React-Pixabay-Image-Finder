@@ -2,11 +2,6 @@
 
 Simple React Application using Pixabay API to search for a images as well using Material UI To generate a simple design
 
-Link: https://stoic-ramanujan-1378a8.netlify.com/
-
-<!-- Markdown snippet -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fbf42909-6f2c-468f-8393-f98ef51e7dda/deploy-status)](https://app.netlify.com/sites/stoic-ramanujan-1378a8/deploys)
-
 ## Installation
 
 Use Node Package Manager (Npm or Yarn ) to install node_modules.
